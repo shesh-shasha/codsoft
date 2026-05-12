@@ -48,3 +48,7 @@ if prediction[0] == 1:
     print("Prediction: Spam")
 else:
     print("Prediction: Legitimate")
+
+##output
+##Model Accuracy: 0.968609865470852
+##Prediction: Spam
