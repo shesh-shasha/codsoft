@@ -53,3 +53,25 @@ python spam_detector.py
 ##output
 Model Accuracy: 0.968609865470852
 Prediction: Spam
+
+
+
+## Credit Card Fraud Detection
+
+This project detects fraudulent credit card transactions using Machine Learning.
+
+Technologies Used:
+- Python
+- Pandas
+- Scikit-learn
+- Random Forest Classifier
+
+Dataset:
+Simulated Credit Card Transactions Dataset
+
+Accuracy:
+99.63%
+
+##output
+Fraud Detection Accuracy: 0.9963380839271576
+Prediction: Legitimate Transaction
