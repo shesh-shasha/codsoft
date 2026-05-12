@@ -22,3 +22,6 @@ https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 ```bash
 python movie_genre.py
 ```
+##Output
+Model Accuracy :44.55%
+Predicted Genre : documentary
