@@ -25,3 +25,31 @@ python movie_genre.py
 ##Output
 Model Accuracy :44.55%
 Predicted Genre : documentary
+
+
+
+
+# SMS Spam Detection
+
+This project detects spam and legitimate SMS messages using Machine Learning and NLP techniques.
+
+## Technologies Used
+- Python
+- Scikit-learn
+- TF-IDF
+- Naive Bayes
+
+## Dataset
+SMS Spam Collection Dataset
+
+## Accuracy
+96.8%
+
+## Run Command
+
+```bash
+python spam_detector.py
+```
+##output
+Model Accuracy: 0.968609865470852
+Prediction: Spam
